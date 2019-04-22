@@ -1,0 +1,13 @@
+{
+    "id": "spotify",
+    "name": "Spotify",
+    "version": "1.0.0",
+    "description": "Spotify: Music for everyone",
+    "main": "index.js",
+    "author": "Jon Rick <jonrick@gmail.com>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://open.spotify.com/browse/featured",
+      "hasNotificationSound": true
+    }
+  }
